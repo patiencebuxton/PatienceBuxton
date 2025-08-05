@@ -23,9 +23,11 @@ Each repository highlights my technical skills, curiosity, and passion for turni
 
 ## 📫 Let’s connect!
 
-🌐 [LinkedIn](https://www.linkedin.com/in/patience-buxton-msc)
-💻 [GitHub Portfolio Website](https://patiencebuxton.github.io/portfolio)
-✉️ [Email Me](mailto:patiencebuxton9@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/patience-buxton-msc)
+  
+- 💻 [GitHub Portfolio Website](https://patiencebuxton.github.io/portfolio)
+  
+- ✉️ [Email Me](mailto:patiencebuxton9@gmail.com)
 
 
 
